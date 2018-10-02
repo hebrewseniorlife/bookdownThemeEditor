@@ -13,7 +13,7 @@ devtools::install_github("hebrewseniorlife/bookdownThemeEditor")
 
 The only external function in this package is an RStudio Addin. It has a graphical interface, which is easy to use. ;)
 
-Basically it helps you generates a `style.css` file, which you can put in your `bookdown` project folder. You will need to load this css by yourself by putting something like this in your `_output.yml`.
+Basically it helps you generate a `style.css` file, which you can put in your `bookdown` project folder. You will need to load this css by yourself by putting something like this in your `_output.yml`.
 
 ```
 bookdown::gitbook: 
