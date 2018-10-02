@@ -1,0 +1,4 @@
+Name: Edit bookdown themes
+Description: Easily customize bookdown gitbook for common styling needs
+Binding: bdTheme_addin
+Interactive: true
