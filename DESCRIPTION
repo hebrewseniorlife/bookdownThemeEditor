@@ -1,12 +1,16 @@
 Package: bookdownThemeEditor
 Title: RStudio 'Addin' to Edit 'Bookdown' 'gitbook' themes  
-Version: 0.0.0.9000
+Version: 0.0.1
 Authors@R: 
-    person(given = "Hao",
+    c(person(given = "Hao",
            family = "Zhu",
            role = c("aut", "cre"),
-           email = "haozhu233@gmail.com")
-Description: What the package does (one paragraph).
+           email = "haozhu233@gmail.com"),
+      person("Timothy", "Tsai", , "aut"),
+      person("Thomas", "Travison", , "aut")
+     )
+Description: This package includes an RStudio Addin that helps people easily
+    accomplish some common styling needs for bookdown gitbook. 
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true

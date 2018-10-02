@@ -22,6 +22,10 @@ bookdown::gitbook:
 
 ![](docs/screenshot.png)
 
+Result you will get after you load `style.css`.
+
+![](docs/result.png)
+
 ## What's the difference between using this app and creating my own stylesheet?
 
 There is no difference except it's just easier to use this app. I spent some time to figure out which CSS tag needs to be modified so you don't need to. ;)
