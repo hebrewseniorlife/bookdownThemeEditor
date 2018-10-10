@@ -6,7 +6,7 @@ Authors@R:
            family = "Zhu",
            role = c("aut", "cre"),
            email = "haozhu233@gmail.com"),
-      person("Timothy", "Tsai", , "aut"),
+      person("Timothy", "Tsai", , "aut", comment = c(ORCID = "0000-0002-0274-8042")),
       person("Thomas", "Travison", , "aut")
      )
 Description: This package includes an RStudio Addin that helps people easily
